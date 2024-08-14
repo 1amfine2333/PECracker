@@ -181,7 +181,7 @@ func main() {
 	}
 
 	var injectCmd = &cobra.Command{
-		Use:   "inject [PeFile] [output] [ShellcodeFile] [Optional:embedData]",
+		Use:   "inject [PeFile] [output] [ShellcodeFile]",
 		Short: "注入shellcode",
 		Args:  cobra.ExactArgs(3),
 		Run: func(cmd *cobra.Command, args []string) {
