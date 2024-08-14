@@ -95,8 +95,6 @@ written by https://github.com/berryalen02/PECracker
 
 # Star History
 
-## Star History
-
 <a href="https://star-history.com/#berryalen02/PECracker&Date">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=berryalen02/PECracker&type=Date&theme=dark" />
