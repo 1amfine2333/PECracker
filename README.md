@@ -93,26 +93,17 @@ written by https://github.com/berryalen02/PECracker
 - [ ] patch(以及自动化的探索与对抗)
 - [ ] .......
 
-# starGraphy
+# Star History
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://api.star-history.com/svg?repos=berryalen02/PECracker&type=Date&theme=dark
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://api.star-history.com/svg?repos=berryalen02/PECracker&type=Date
-    "
-  />
-  <img
-    alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=berryalen02/PECracker&type=Date"
-  />
-</picture>
+## Star History
+
+<a href="https://star-history.com/#berryalen02/PECracker&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=berryalen02/PECracker&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=berryalen02/PECracker&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=berryalen02/PECracker&type=Date" />
+ </picture>
+</a>
 
 # 免责声明
 
